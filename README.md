@@ -22,6 +22,7 @@ Repository (atau repo) adalah tempat terpusat untuk menyimpan semua file, kode, 
 
 > Git adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah dirubah dalam suatu file.
 * dibagi jadi 3 working area : working director/tree, git directory, dan staging area.
+
 **Perbedaan Git dan GitHub:**
  * Git digunakan untuk melacak dan mengelola perubahan kode secara lokal.
  * GitHub digunakan untuk menyimpan repository Git secara online dan mendukung kolaborasi.
