@@ -13,6 +13,7 @@ Repository (atau repo) adalah tempat terpusat untuk menyimpan semua file, kode, 
 # Dokumentasi Kegiatan Workshop
 > * prompt engineering yaitu cara merancang instruksi agar AI memberikan jawaban yang tepat, relevan, dan layak untuk digunakan
 > * Prompt adalah instruksi atau masukan yang anda berikan kepada model untuk mendapatkan hasil tertentu.
+
 **keuntungan prompt engineering:**
  * meningkatkan performa AI model
  * Mengurangi bias dan respon yang offensive
